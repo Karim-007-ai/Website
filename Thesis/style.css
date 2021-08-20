@@ -1,0 +1,38 @@
+header {
+    margin: auto;
+    text-align: left;
+}
+
+body {
+    width: 100%;
+    height: 100%
+    margin: auto;
+    text-align: left;
+    background-size: auto;
+    background-color: cadetblue;
+
+}
+
+/* .third {
+    width: 29%;
+    background-color: blanchedalmond;
+    float: left;
+    text-align: center;
+    margin: 2%;
+    padding: 1%;
+    border-radius: 5px;
+    box-sizing: border-box;
+}
+
+.clearIt{
+    clear: both;
+}
+
+p {
+    background-color: sandybrown;
+}
+
+h1:hover,
+div:hover {
+    background-color: yellow;
+} */
